@@ -350,7 +350,7 @@ code {
 #header-title {
   text-align: center;
   padding: 30px 30px;
-  background-image: url("/images/ui/banner.png");
+  background-image: url("/images/ui/b2.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -2139,12 +2139,12 @@ a[rel^="external"]:after {
   text-decoration: none;
   padding-left: 3px;
 }
-a[href^="http://www.yorkcn.net"]:after,
+a[href^="http://fr.yuxir.com"]:after,
 a.no_icon:after {
   content: "" !important;
   padding-left: 0;
 }
-a[href^="https://www.yorkcn.net"]:after,
+a[href^="https://fr.yuxir.com"]:after,
 a.no_icon:after {
   content: "" !important;
   padding-left: 0;
