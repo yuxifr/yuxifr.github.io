@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>法国羽西</title>
+  <subtitle>你的法国生活指南</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fr.yuxir.com/"/>
+  <updated>2017-07-06T15:23:52.828Z</updated>
+  <id>https://fr.yuxir.com/</id>
+  
+  <author>
+    <name>羽西</name>
+    <email>fr@yuxir.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>巴黎中餐馆推荐</title>
+    <link href="https://fr.yuxir.com/paris-chinese-restaurants/"/>
+    <id>https://fr.yuxir.com/paris-chinese-restaurants/</id>
+    <published>2017-07-01T11:33:28.000Z</published>
+    <updated>2017-07-06T15:23:52.828Z</updated>
+    
+    <content type="html"><![CDATA[<p>巴黎中餐</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;巴黎中餐&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="美食" scheme="https://fr.yuxir.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    
+    
+      <category term="巴黎" scheme="https://fr.yuxir.com/tags/%E5%B7%B4%E9%BB%8E/"/>
+    
+      <category term="中餐" scheme="https://fr.yuxir.com/tags/%E4%B8%AD%E9%A4%90/"/>
+    
+  </entry>
+  
+</feed>
